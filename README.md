@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I'm Gencay
+- I'm a computer engineer from Turkey.
 
 <!--
 **gencaycelik99/gencaycelik99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
